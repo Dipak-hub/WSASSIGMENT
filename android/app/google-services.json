@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949024659350",
+    "project_id": "wsasg-dd94c",
+    "storage_bucket": "wsasg-dd94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949024659350:android:2630f87311c28cb26dafb7",
+        "android_client_info": {
+          "package_name": "com.wsassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949024659350-05mm836kspocac6ksr1p331ev1vej90a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFjy0ZMyOWCg63ncca0u9HxoeTH7EY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949024659350-05mm836kspocac6ksr1p331ev1vej90a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
